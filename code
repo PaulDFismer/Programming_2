@@ -1,0 +1,32 @@
+public class Product {
+    private String name;
+    private float price;
+    private int stockQuantity ;
+
+}
+
+
+public class SalesRecord {
+    new product; 
+    private int date;
+    private int quantitySold;
+    private double totalPrice;
+   
+
+
+
+}
+
+
+public class InventoryManager {
+
+    static void updateStock{
+
+    }
+
+    static void ckeckLowStockLevels {
+
+    }
+
+
+}
